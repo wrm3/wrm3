@@ -22,7 +22,6 @@
 |---------|-------------|------|
 | [trent_rules](https://github.com/wrm3/trent_rules) | AI dev framework for 5 IDEs — 19 agents, 32+ skills | Python, FastMCP, pgvector |
 | [fstrent_polars_ta](https://pypi.org/project/fstrent_polars_ta/) | 100+ TA indicators, 5-10x faster than pandas_ta | Python, Polars |
-| [sketchup-mcp](https://github.com/wrm3/sketchup-mcp) | Claude AI → SketchUp 3D integration via MCP | Python, Ruby |
 
 ---
 
